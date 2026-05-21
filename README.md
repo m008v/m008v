@@ -16,10 +16,10 @@
 
 I'm **Nguyen Minh Huy** *(alias: `raintee.dev` / `m008v`)*, born on **October 30, 2007** in **Phuoc Long, Bac Lieu, Vietnam**.
 
-I'm currently a **first-year student majoring in Artificial Intelligence (AI) at Can Tho University**. Alongside my studies, I work as a **freelance developer** with over **5 years of hands-on experience** and proficiency in more than **4 programming languages**.
+I'm currently a **first-year student majoring in Artificial Intelligence (AI) at Can Tho University**. Alongside my studies, I work as a ***freelance developer*** with over **5 years of hands-on experience** and proficiency in more than **4 programming languages**.
 
-- 🎓 **Artificial Intelligence student** — Can Tho University *(09/2025 — present)*
-- 🏫 Secondary & High School in Phuoc Long, Bac Lieu *(2019 — 06/2025)*
+- 🎓 **Artificial Intelligence student** - *Can Tho University* *(09/2025 - present)*
+- 🏫 Secondary & High School in Phuoc Long, Bac Lieu *(2019 - 06/2025)*
 - 💼 **5+ years** of programming experience & **35+** completed projects
 - 🌍 Based in: Bac Lieu / Can Tho, Vietnam
 - 📧 Email: **minhhuydev.original@gmail.com**
@@ -32,9 +32,7 @@ I'm currently a **first-year student majoring in Artificial Intelligence (AI) at
 | --- | --- | --- |
 | 🐍 **Python** | `█████████▉` 99% | Master |
 | 🐘 **PHP** | `███████▌░░` 76% | Advanced |
-| 🌐 **HTML** | `███████░░░` 70% | Advanced |
 | 📜 **JavaScript** | `████░░░░░░` 40% | Intermediate |
-| 🎨 **CSS** | `███░░░░░░░` 30% | Apprentice |
 | ⚙️ **C++** | `██▊░░░░░░░` 27% | Apprentice |
 
 **Areas of interest:** AI / LLM · RAG · Automation · Web Backend · Bots & Scraping
@@ -43,17 +41,17 @@ I'm currently a **first-year student majoring in Artificial Intelligence (AI) at
 
 # 🌐 Languages
 
-- 🇻🇳 **Vietnamese** — Native · 100%
-- 🇬🇧 **English** — Continuously improving · 65%
+- 🇻🇳 **Vietnamese** - Native · 100%
+- 🇬🇧 **English** - Continuously improving · 65%
 
 ---
 
 # 🚀 Featured Projects
 
-- 🔵 **[fbchat-v2](https://nqminkhuy.com/fbchat)** — A Python library re-written from `fbchat`, enabling Facebook Messenger interactions over MQTT/GraphQL for chatbots, automation, and safe cookie scraping.
-- 🟣 **[Deeptalk with Self](https://deeptalk.nqminkhuy.com/)** — A "talk to yourself" platform powered by LLM + RAG to spark thoughts, journal emotions, and reflect daily.
-- 🟢 **[NexusVocab — Multilingual Learning System (RAG)](https://nexusvocab.com/)** — A RAG-based platform for English / multilingual learning that generates personalized exercises based on the learner's level.
-- 🟡 **[Movie Free Streaming](https://movie.nqminkhuy.com/)** — A free, responsive movie-streaming site integrating the TMDB API and M3U8 playback.
+- 🔵 **[fbchat-v2](https://nqminkhuy.com/fbchat)** - A Python library re-written from `fbchat`, enabling Facebook Messenger interactions over MQTT/GraphQL for chatbots, automation, and safe cookie scraping.
+- 🟣 **[Deeptalk with Self](https://deeptalk.nqminkhuy.com/)** - A "talk to yourself" platform powered by LLM + RAG to spark thoughts, journal emotions, and reflect daily.
+- 🟢 **[NexusVocab - Multilingual Learning System (RAG)](https://nexusvocab.com/)** - A RAG-based platform for English / multilingual learning that generates personalized exercises based on the learner's level.
+- 🟡 **[Movie Free Streaming](https://movie.nqminkhuy.com/)** - A free, responsive movie-streaming site integrating the TMDB API and M3U8 playback.
 - 🌹 **Elementary Exam Practice System** — A quiz platform with auto-grading, progress analytics, and class leaderboards.
 
 ---
@@ -85,4 +83,4 @@ I'm currently a **first-year student majoring in Artificial Intelligence (AI) at
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuydev&theme=onedark" alt="Github Streak"/>
 </p>
 
-<p align="center"><i>From Vietnam, with love ❤️  MinhHuyDev</i></p>
+<p align="center"><i>From Vietnam, with love ❤️  m008v</i></p>
