@@ -32,7 +32,7 @@ I'm currently a **first-year student majoring in Artificial Intelligence (AI) at
 | --- | --- | --- |
 | 🐍 **Python** | `█████████▉` 99% | Master |
 | 🐘 **PHP** | `███████▌░░` 76% | Advanced |
-| 📜 **JavaScript** | `████░░░░░░` 40% | Intermediate |
+| 📜 **JavaScript** | `███████░░░` 70% | Advanced |
 | ⚙️ **C++** | `██▊░░░░░░░` 27% | Apprentice |
 
 **Areas of interest:** AI / LLM · RAG · Automation · Web Backend · Bots & Scraping
