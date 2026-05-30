@@ -63,7 +63,7 @@ I'm currently a **first-year student majoring in Artificial Intelligence (AI) at
   <a href="https://m.me/zminhhuydev"><img src="https://cdn.simpleicons.org/messenger/00B2FF" width="28" alt="Messenger"/></a>&nbsp;&nbsp;
   <a href="https://t.me/Minhhuydev"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" alt="Telegram"/></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/minhhuydev"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="28" alt="YouTube"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/minhhuydev"><img src="https://cdn.simpleicons.org/github/6E7681" width="28" alt="GitHub"/></a>
+  <a href="https://github.com/m008v"><img src="https://cdn.simpleicons.org/github/6E7681" width="28" alt="GitHub"/></a>
 </p>
 
 - 🌐 Website / Profile: **[nqminkhuy.com](https://nqminkhuy.com/information/)**
@@ -71,7 +71,7 @@ I'm currently a **first-year student majoring in Artificial Intelligence (AI) at
 - 💬 Messenger: [m.me/zminhhuydev](https://m.me/zminhhuydev)
 - ✈️ Telegram: [t.me/Minhhuydev](https://t.me/Minhhuydev)
 - 📺 YouTube: [youtube.com/minhhuydev](https://www.youtube.com/minhhuydev)
-- 🐙 GitHub: [github.com/minhhuydev](https://github.com/minhhuydev)
+- 🐙 GitHub: [github.com/m008v](https://github.com/minhhuydev)
 
 ---
 
