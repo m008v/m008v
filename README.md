@@ -43,6 +43,7 @@ I'm currently a **first-year student majoring in Artificial Intelligence (AI) at
 
 - 🇻🇳 **Vietnamese** - Native · 100%
 - 🇬🇧 **English** - Continuously improving · 65%
+- 🇷🇺 **русский язык** - Beginner · 5%
 
 ---
 
@@ -52,7 +53,7 @@ I'm currently a **first-year student majoring in Artificial Intelligence (AI) at
 - 🟣 **[Deeptalk with Self](https://deeptalk.nqminkhuy.com/)** - A "talk to yourself" platform powered by LLM + RAG to spark thoughts, journal emotions, and reflect daily.
 - 🟢 **[NexusVocab - Multilingual Learning System (RAG)](https://nexusvocab.com/)** - A RAG-based platform for English / multilingual learning that generates personalized exercises based on the learner's level.
 - 🟡 **[Movie Free Streaming](https://movie.nqminkhuy.com/)** - A free, responsive movie-streaming site integrating the TMDB API and M3U8 playback.
-- 🌹 **Elementary Exam Practice System** — A quiz platform with auto-grading, progress analytics, and class leaderboards.
+- 🌹 **Elementary Exam Practice System** - A quiz platform with auto-grading, progress analytics, and class leaderboards.
 
 ---
 
