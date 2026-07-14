@@ -30,7 +30,7 @@ I'm currently a **first-year student majoring in Artificial Intelligence (AI) at
 
 | Language | Level | Proficiency |
 | --- | --- | --- |
-| 🐍 **Python** | `█████████▉` 99% | Master |
+| 🐍 **Python** | `████████░░` 80% | Master |
 | 🐘 **PHP** | `███████▌░░` 76% | Advanced |
 | 📜 **JavaScript** | `███████░░░` 70% | Advanced |
 | ⚙️ **C++** | `██▊░░░░░░░` 27% | Apprentice |
@@ -49,12 +49,12 @@ I'm currently a **first-year student majoring in Artificial Intelligence (AI) at
 
 # 🚀 Featured Projects
 
-- 🔵 **[fbchat-v2](https://nqminkhuy.com/fbchat)** - A Python library re-written from `fbchat`, enabling Facebook Messenger interactions over MQTT/GraphQL for chatbots, automation, and safe cookie scraping.
-- 🟣 **[Deeptalk with Self](https://deeptalk.nqminkhuy.com/)** - A "talk to yourself" platform powered by LLM + RAG to spark thoughts, journal emotions, and reflect daily.
-- 🟢 **[NexusVocab - Multilingual Learning System (RAG)](https://nexusvocab.com/)** - A RAG-based platform for English / multilingual learning that generates personalized exercises based on the learner's level.
-- 🟡 **[Movie Free Streaming](https://movie.nqminkhuy.com/)** - A free, responsive movie-streaming site integrating the TMDB API and M3U8 playback.
-- 🌹 **Elementary Exam Practice System** - A quiz platform with auto-grading, progress analytics, and class leaderboards.
-
+-  **[fbchat-v2](https://nqminkhuy.com/fbchat)** - A Python library re-written from `fbchat`, enabling Facebook Messenger interactions over MQTT/GraphQL for chatbots, automation, and safe cookie scraping.
+-  **[Deeptalk with Self](https://deeptalk.nqminkhuy.com/)** - A "talk to yourself" platform powered by LLM + RAG to spark thoughts, journal emotions, and reflect daily.
+-  **[NexusVocab - Multilingual Learning System (RAG)](https://nexusvocab.com/)** - A RAG-based platform for English / multilingual learning that generates personalized exercises based on the learner's level.
+-  **[Movie Free Streaming](https://movie.nqminkhuy.com/)** - A free, responsive movie-streaming site integrating the TMDB API and M3U8 playback.
+-  **[Elementary Exam Practice System](https://vuihocmoingay.com/)** - A quiz platform with auto-grading, progress analytics, and class leaderboards.
+-  **[Can Tho University Documents](https://tailieuctu.com/)** - A free document-sharing platform for students.
 ---
 
 # 📫 Contact Me
