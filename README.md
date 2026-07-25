@@ -1,4 +1,4 @@
-# Welcome, [m008v ツ](https://www.facebook.com/zminhhuydev)!
+# Welcome, [m008v ツ](https://www.facebook.com/zminhhuydev)
 
 
 
